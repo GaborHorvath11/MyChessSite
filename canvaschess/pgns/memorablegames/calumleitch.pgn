@@ -1,0 +1,25 @@
+[Event "Ulster Masters"]
+[Site "?"]
+[Date "2013.11.17"]
+[Round "4"]
+[White "Horvath, Gabor"]
+[Black "Leitch, Calum"]
+[Result "1-0"]
+[ECO "B00"]
+[PlyCount "57"]
+[SourceDate "2013.05.04"]
+
+1. e4 b6 2. d4 Bb7 3. Bd3 e6 (3... f5 {[%csl Gg2]} 4. exf5 Bxg2 5. Qh5+ g6 6.
+fxg6 Nf6 7. gxh7+ Nxh5 8. Bg6#) 4. Nf3 Nf6 5. Qe2 $1 (5. Nc3 Bb4) (5. Nbd2 {
+[%csl Gc1]}) 5... Be7 6. O-O d5 7. e5 {[%csl Gb7]} Ne4 8. Nbd2 Nxd2 9. Bxd2 O-O
+10. b4 h6 $2 (10... c5 11. c3 cxb4 12. cxb4 Nc6 13. a3) (10... Nd7 11. c3 c5
+12. h4 $1 c4 13. Bc2 Bxh4 14. g3 Be7 15. Kg2 Re8 16. Rh1 Nf8 17. Rh5 g6 18. Rh6
+b5 19. Rah1 $40) (10... a5 11. b5 (11. bxa5 bxa5 12. Rab1 Ba6 13. Rxb8 $2 Bxd3)
+11... c6 12. a4 cxb5 13. axb5 Nd7 14. Ra4 (14. h4 Bxh4 15. g3 Be7 16. Kg2 Re8
+17. Rh1 Nf8 18. Rh3 $40) 14... Re8 15. g3 Rc8 16. h4 {[%csl Gg5]} f6 17. exf6
+Bxf6 18. Ng5 $16) 11. c3 {[%cal Gd3c2]} a5 12. b5 a4 13. Bc2 Nd7 14. Bxh6 f5 (
+14... gxh6 15. Qd3 f5 16. exf6 Rxf6 17. Qh7+ Kf8 18. Ne5 Nxe5 19. dxe5 Rf4 20.
+Bg6 $18) 15. exf6 Rxf6 16. Bg5 Rf7 17. Qxe6 Nf8 18. Bxe7 Nxe6 19. Bxd8 Rxd8 20.
+Ne5 Rf6 21. Bxa4 Nf4 22. Rae1 Ra8 23. Bb3 c5 24. bxc6 Ba6 25. g3 Bxf1 26. Kxf1
+Ng6 27. Bxd5+ Kh7 28. Be4 Rxa2 29. Bxg6+ 1-0
+

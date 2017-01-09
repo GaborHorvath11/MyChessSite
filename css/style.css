@@ -1,0 +1,180 @@
+@import 'main.css';
+
+
+html {
+    overflow-y: scroll;
+
+}
+
+.jumbotron {
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-bottom: 0;
+    background-color: lightblue;
+}
+
+.profile-picture-container {
+    border-radius: 5px;
+    padding-left: 15px;
+}
+
+.profile-picture {
+    border-radius: 100%;
+}
+
+.page-title {
+    padding-top: 45px;
+    padding-bottom: 45px;
+    margin-bottom: 20px;
+    padding-left: 5px;
+    margin-left: 10px;
+}
+
+.mynavbar {
+    margin-bottom: 5px;
+}
+
+.whiteking {
+    margin-top: -12px;
+    cursor: default;
+}
+
+.navbar-nav li {
+    padding: 0 10px 0 10px;
+}
+
+        /* -----------------------------------------------------------------
+            Left-side accordion menu
+            ----------------------------------------------------------------- */
+
+
+.panel-heading {
+    background: #D1D1D1;
+    padding-left: 15px;
+}
+.panel-title {
+    min-width: 35vh;
+
+}
+
+.panel-title a {
+    text-decoration: none;
+}
+
+.panel-body ul {
+    padding-left: 0;
+    list-style: none;
+}
+
+.glyphicon-hand-right {
+    margin-right: 15px;
+}
+
+.panel-body ul li {
+    padding: 2px 5px 2px 5px;
+}
+
+.panel-body ul li  a {
+    text-decoration: none;
+    color: black;
+}
+
+.panel-body ul li:hover {
+    background: #eee;
+}
+
+    /* ----------------------------------------------------------------------
+        Main content
+        ---------------------------------------------------------------------- */
+
+.mystory {
+    padding: 35px 35px 35px 35px;
+
+}
+
+p {
+    padding-bottom: 10px;
+}
+
+.comingsoon {
+    letter-spacing: 1px;
+}
+
+.smiley {
+    max-height: 25px;
+}
+
+.thumbnail-container {
+    max-width: 160px;
+
+}
+
+.thumbnail {
+    max-width: 150px;
+}
+
+.thumbnail img {
+    min-height: 90px;
+}
+
+#margin-keeper {
+    visibility: hidden;
+    height: 250px;
+}
+
+    /* ----------------------------------------------------------
+        Footer section
+        ----------------------------------------------------------
+        */
+
+.footer {
+    background: #424242;
+	color: #eee;
+    padding-bottom: 25px;
+    padding-top: 10px;
+    margin-top: 15px;
+}
+
+
+.footer li {
+    list-style: none;
+}
+
+.footer li a{
+    color: #eee;
+}
+
+footer li a:hover {
+    color: gold;
+    text-decoration: none;
+}
+
+.glyphicon-phone-alt {
+    margin-right: 5px;
+}
+
+ .glyphicon-envelope {
+     margin-right: 5px;
+ }
+
+    /* ------------------------------------------
+        Media Queries
+        ------------------------------------------ */
+
+@media (max-width:790px) {
+    .affix {
+        position: static;
+    }
+
+    .accordion-container {
+        max-width: 330px;
+    }
+}
+
+@media (max-width: 850px) {
+
+    .navbar-nav li {
+        padding: 0;
+    }
+
+}

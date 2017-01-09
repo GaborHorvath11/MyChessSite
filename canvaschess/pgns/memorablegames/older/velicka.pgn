@@ -1,0 +1,26 @@
+[Event "Simul"]
+[Site "?"]
+[Date "2011.09.10"]
+[Round "?"]
+[White "GM Velicka, Petr"]
+[Black "Horvath, Gabor"]
+[Result "0-1"]
+[ECO "C06"]
+[WhiteElo "2355"]
+[BlackElo "2260"]
+[Annotator "Horvath,Gabor"]
+[PlyCount "116"]
+[SourceDate "2013.05.04"]
+[TimeControl "180+2"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5.
+Bd3 c5 6. c3 Nc6 7. Ne2 cxd4 8. cxd4 f6 9. exf6 Nxf6 10. Nf3 Bd6 11. Bf4 Qa5+
+12. Qd2 Bb4 13. Nc3 O-O 14. O-O Bd7 15. a3 (15. Rfc1) 15... Bxc3 16. bxc3 Rac8
+17. Rfe1 Ne7 18. Rec1 $6 Nf5 19. Bxf5 (19. Qb2) 19... exf5 20. Be5 Ne4 21. Qb2
+Qb5 22. Qxb5 Bxb5 23. h4 Nxc3 24. Kh2 Rc6 25. Rc2 Ne4 26. Rxc6 Bxc6 27. Kg1 h6
+28. Bf4 Kh7 29. Nd2 g5 30. hxg5 hxg5 31. Nxe4 gxf4 32. Nc3 Re8 33. Kf1 Kg6 34.
+Re1 Rxe1+ 35. Kxe1 b5 36. Nd1 a5 37. Nb2 f3 38. g3 f4 39. Nd3 fxg3 40. fxg3 Kf5
+41. Nf2 b4 42. axb4 a4 43. Kd2 Bb5 44. Kc3 Ke6 45. Kb2 Kd6 46. Ka3 Kc7 47. Kb2
+Be8 48. Kc3 Kb6 49. g4 Kc7 50. Kb2 Kd6 51. Nd3 Bb5 52. Nf2 Ke6 53. Kc2 Kf6 54.
+Nd1 a3 55. Nc3 f2 56. Nxd5+ Kg5 57. Ne3 Kf4 58. Kd2 a2 0-1
+

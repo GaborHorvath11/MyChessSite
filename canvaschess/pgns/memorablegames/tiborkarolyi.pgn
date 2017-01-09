@@ -1,0 +1,44 @@
+[Event "?"]
+[Site "?"]
+[Date "2013.04.27"]
+[Round "?"]
+[White "Horvath, Gabor"]
+[Black "IM Karolyi, Tibor"]
+[Result "1-0"]
+[ECO "B13"]
+[Annotator "Gabor Horvath"]
+[PlyCount "59"]
+[SourceDate "2013.05.04"]
+[WhiteTeam "Galway"]
+[BlackTeam "Adare"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. Bd3 Nc6 5. c3 g6 6. h3 (6. Nf3 Bg7 (6... Bg4
+7. h3 (7. Qb3 Bxf3 8. Qxb7 Qc8 9. Qxc8+ Rxc8 10. gxf3 Nxd4 11. Be3 Nc6) 7...
+Bxf3 8. Qxf3) 7. O-O (7. h3 Nh6 8. O-O O-O 9. Re1 Qc7 (9... Nf5 10. Bf4 f6 11.
+Nbd2 Re8 12. Nb3 e5 13. dxe5 fxe5 14. Bg5 Qd7 15. c4 e4 16. Nc5 Qf7 17. cxd5
+exd3 18. Rxe8+ Qxe8 19. dxc6 Qxc6 20. Qb3+ Kh8 21. Re1 Nd4 22. Nxd4 Bxd4 23.
+Nxd3 Bf5 24. Qf7 Bg7 25. Re7 Rg8 26. Ne5 {1-0 Morozevich,A (2610)-Adianto,U 
+(2605)/Amsterdam 1996/CBM 055}) 10. Na3 Nf5 11. Nc2 f6 12. c4 dxc4 13. Bxc4+
+Kh8 14. d5 Rd8 15. g4 Nd6 16. Bf4 Ne5 17. Bb3 a5 18. a4 Nxf3+ 19. Qxf3 f5 20.
+g5 Ra6 21. Na3 Bxb2 22. Nb5 Qd7 23. Ra2 Bg7 24. Nxd6 exd6 25. Rae2 Bf8 26. Bc4
+Ra8 27. Bb5 Qf7 28. Be8 Qg8 29. Re7 Bxe7 30. Rxe7 Qf8 31. Qc3+ Kg8 32. Bf7+
+Qxf7 33. Rxf7 Kxf7 34. Qf6+ Ke8 35. Qh8+ {1-0 Lein,A (2510)-Chandler,M (2530)/
+Hastings 1981/MCD}) 7... Nh6 8. Bf4 f6) 6... Nh6 7. Nf3 Bf5 8. Be2 (8. Bxh6
+Bxh6 9. Bxf5 gxf5 10. Nbd2 Qc7 11. Qc2 e6 12. O-O-O O-O-O 13. Kb1 Kb8 14. Nb3
+Rdg8 15. g3 Bf8 16. Nc1 Bd6 {1/2-1/2 Nunn,J (2590)-Chandler,M (2470)/Wijk aan
+Zee 1982/MCD (28)}) 8... Qc7 9. O-O O-O-O (9... f6 10. c4) (9... Bg7 10. Re1)
+10. Na3 f6 11. Nb5 Qb8 $6 (11... Qd7 12. Qa4 a6 13. Na3 Nf7 (13... Bg7) (13...
+Ne5) (13... g5 14. b4 (14. c4 e6 (14... Kb8 15. cxd5 Qxd5 16. Nc4 e6 (16... b5
+17. Qxa6 bxc4 18. Bxc4 Qd7 19. d5 Na7 20. Be3 $18) 17. Nb6 Qa5) 15. c5 Rg8)
+14... Ne5 15. b5 Nxf3+ 16. Bxf3 e6 (16... Rg8 17. c4 g4 18. hxg4 Bxg4 19. Bxd5
+e6 20. Bf4 $1 exd5 21. cxd5 Bd6 22. Bxd6 Qxd6 23. Nc4 Qc7 24. bxa6 $18) 17. c4
+$40) 14. b4 Nd6 15. b5 axb5 16. Nxb5 Nxb5 17. Bxb5 g5 18. Be3 Kb8 19. Rfc1 Rc8)
+12. a4 (12. c4 $5) 12... e5 13. dxe5 $1 (13. a5 $2 e4 14. Nh2 a6 15. Na3 Bd6
+16. Bxh6 Bxh2+ 17. Kh1 Bf4 18. Bxf4 Qxf4) 13... fxe5 14. a5 (14. Bg5 Rd7) 14...
+a6 15. Na3 Nf7 16. b4 (16. Be3 $1 Nxa5 (16... e4 17. Nd4 Nfe5 18. b4) 17. Qa4)
+16... e4 17. Nd4 Nxd4 18. cxd4 (18. Qxd4 $6 Qe5 19. b5 Qxd4 20. cxd4 axb5 21.
+Nxb5 Rd7 22. Bf4 Kd8) 18... b5 (18... Bxb4 19. Rb1 $1 Bxa5 (19... Bxa3 20. Bxa3
+$18) 20. Bxa6) (18... Kd7 19. b5 $18) 19. axb6 Qxb6 20. Qa4 Kb7 21. b5 (21. Nc2
+) 21... a5 22. Nc2 Bd6 23. Bd2 Bc7 24. Ne3 Qd6 25. g3 Bxh3 26. Rfc1 Bd7 27. Qb3
+Bb6 28. Bxa5 Bxd4 29. Bc7 Qe6 30. Ra6 1-0
+

@@ -1,0 +1,23 @@
+[Event "Budapest FS02 FM-A"]
+[Site "Budapest"]
+[Date "2004.02.07"]
+[Round "1"]
+[White "Marodi, Matyas"]
+[Black "Horvath, Gabor"]
+[Result "0-1"]
+[ECO "E67"]
+[WhiteElo "2119"]
+[BlackElo "2152"]
+[PlyCount "50"]
+[EventDate "2004.02.07"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "HUN"]
+[Source "ChessBase"]
+[SourceDate "2004.03.10"]
+
+1. d4 Nf6 2. c4 g6 3. Nf3 Bg7 4. g3 O-O 5. Bg2 d6 6. O-O Nbd7 7. Nc3 e5 8. d5
+a5 9. a3 Nc5 10. Be3 Nfe4 11. Nxe4 Nxe4 12. b4 f5 13. Qc2 f4 14. gxf4 Bf5 15.
+Qb2 exf4 16. Bd4 Bh6 17. Nd2 Nxd2 18. Qxd2 Qh4 19. Qc3 f3 20. exf3 Bf4 21. Rfe1
+Qxh2+ 22. Kf1 Rae8 23. Bh8 Bh6 24. Rad1 Bh3 25. Bxh3 Qh1# 0-1
+
